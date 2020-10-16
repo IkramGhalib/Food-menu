@@ -30,6 +30,9 @@ function App() {
     }
   };
 
+const build=()=>{
+
+}
   const onChange = (e) => setQuery(e.target.value);
 
   const onSubmit = (e) => {
